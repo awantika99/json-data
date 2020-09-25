@@ -1,0 +1,32 @@
+[
+{
+"id": 1,
+"name": "The Godfather",
+"storyline": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+"release": "1985-04-17"
+},
+{
+"id": 2,
+"name": "ERNEST HEMINGWAY",
+"storyline":"Papa Hemingway once said "there is no friend as loyal as a book," and in a 1935 piece published in Esquire, he laid out a list of a few friends he said he would "rather read again for the first time ... than have an assured income of a million dollars a year." They included, he wrote, "Anna Karenina, Far Away and Long Ago, Buddenbrooks, Wuthering Heights, Madame Bovary, War and Peace, A Sportsman's Sketches, The Brothers Karamazov, Hail and Farewell, Adventures of Huckleberry Finn, Winesburg, Ohio, La Reine Margot, The Maison Tellier, Le Rouge et le Noir, La Chartreuse de Parme, Dubliners, Yeats's Autobiographies, and a few others.",
+"release": "1985-04-17"
+},
+{
+"id": 3,
+"name": "JOAN DIDION",
+"storyline":"In an interview with The Paris Review in 2006, novelist and creative nonfiction scribe Joan Didion called Joseph Conrad's Victory "maybe my favorite book in the world ... I have never started a novel ... without rereading Victory. It opens up the possibilities of a novel. It makes it seem worth doing.",
+"release": "1985-04-17"
+},
+{
+"id": 4,
+"name": " White Heat",
+"storyline": "A psychopathic criminal with a mother complex makes a daring break from prison and leads his old gang in a chemical plant payroll heist.",
+"release": "1985-04-17"
+},
+{
+"id": 5,
+"name": "Eddie Murphy: RAW",
+"storyline": "Eddie Murphy in a stand-up performance recorded live. For an hour and a half he talks about his favourite subjects: sex and women.",
+"release": "1985-04-17"
+}
+]
